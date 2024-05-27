@@ -16,5 +16,5 @@ function main() {
         port: envs.PORT,
         public_Path: envs.PUBLIC_PATH
     });
-    server.start();
+    server.start(); 
 }
